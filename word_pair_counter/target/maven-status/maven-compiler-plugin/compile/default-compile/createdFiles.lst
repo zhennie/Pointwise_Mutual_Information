@@ -1,0 +1,5 @@
+me/ash/pmi/word_pair/utilities/IO.class
+me/ash/pmi/word_pair/data_structure/WordPair.class
+me/ash/pmi/word_pair/pmi/PMI.class
+me/ash/pmi/word_pair/utilities/WordPairComparator.class
+me/ash/pmi/word_pair/WordPairAnalyzer.class
